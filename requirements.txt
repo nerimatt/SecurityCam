@@ -1,1 +1,6 @@
 captum
+torch
+torchvision
+scikit-learn
+opencv-python
+numpy
